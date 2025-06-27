@@ -12,7 +12,7 @@ An interactive Excel dashboard built using PivotTables, slicers, and charts to e
 ## 📂 Files
 
 - `Bike_Sales_Dashboard.xlsx` — main Excel dashboard
-- `dashboard_preview.png` — screenshot of the dashboard
+- `Dashboard.png` — screenshot of the dashboard
 
 ## 🛠️ Tools Used
 
